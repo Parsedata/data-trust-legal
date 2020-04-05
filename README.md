@@ -1,8 +1,8 @@
-# BrightHive Data Trust Legal Templates
+# Parsedata Data Trust Legal Templates
 
 Data Trusts are vehicles for multiple organizations to securely, responsibly, and ethically share data for collective insight. Data Trusts require coordination of the legal, technical, and governance systems for the data in order function. 
 
-This repository contains versioned templates or legal agreements used by BrightHive in establishing and maintaining data trusts for our partners.
+This repository contains versioned templates or legal agreements used by Parsedata in establishing and maintaining data trusts for our partners.
 
 # Using this repository
 
